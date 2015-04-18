@@ -6,7 +6,32 @@
     <description>Recent content on Into Serene</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 18 Apr 2015 02:50:45 +0900</lastBuildDate>
     <atom:link href="http://intoserene.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>http://intoserene.github.io/post/first/</link>
+      <pubDate>Sat, 18 Apr 2015 02:50:45 +0900</pubDate>
+      
+      <guid>http://intoserene.github.io/post/first/</guid>
+      <description>&lt;p&gt;tetjskdhsjkf&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>http://intoserene.github.io/about/</link>
+      <pubDate>Sat, 18 Apr 2015 02:50:35 +0900</pubDate>
+      
+      <guid>http://intoserene.github.io/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;test:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;test&lt;/h1&gt;
+
+&lt;p&gt;test&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
