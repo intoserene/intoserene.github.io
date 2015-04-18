@@ -17,9 +17,8 @@
       <guid>http://intoserene.github.io/post/first/</guid>
       <description>&lt;p&gt;tetjskdhsjkf&lt;/p&gt;
 
-&lt;p&gt;&amp;rdquo;&amp;rsquo;
-hugo -t themename
-&amp;ldquo;&amp;rsquo;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;hugo -t themename
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
